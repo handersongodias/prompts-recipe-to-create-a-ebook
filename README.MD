@@ -79,7 +79,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Handerson Dias](https://github.com/handersongodias)
+por [Handerson Dias](https://github.com/handersongodias)
