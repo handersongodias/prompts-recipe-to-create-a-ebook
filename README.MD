@@ -61,17 +61,4 @@ LeonardoAI：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 
-
-<p>
-  
-    <p>&nbsp&nbsp&nbspHanderson Dias<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/handersongodias">
-    GitHub</a>&nbsp;|&nbsp;
-   
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 por [Handerson Dias](https://github.com/handersongodias)
