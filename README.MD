@@ -10,27 +10,19 @@
 -------
 
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
 
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/handersongodias/prompts-recipe-to-create-a-ebook" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [LeonardoAI](https://leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +32,25 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |crie um titulo de um ebook sobre o tema GODOT GDSCRIPT versao 4.3 e tenha uma temática mais nerd tipo senhor de aneis, me forneça 5 titulos                                                |
+| conteúdo | faça um texto para ebook, com foco em GDScript versão 4, listando os principais comandos com exemplos em codigos
+
+{REGRAS}
+>Explique de maneira simples
+>Deixe o texto enxuto e claro
+>Sempre apresente exemplos de códigos em contextos reais e comentados |
 
 
-Midjourney：
+LeonardoAI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| comando | Create a vibrant, detailed image of a treasure map in a retro, 8-bit pixel art style, reminiscent of classic video games, with a yellowed, aged parchment texture and intricate, hand-drawn illustrations of ancient forests, mystical mountains, and winding rivers. The map should be adorned with ornate, curved borders and adorned with scatterings of gold coins, gems, and other treasures. In the center of the map, a prominent, marks the spot, and in a striking, pixelated font, the text 'GDScript' is inscribed in a bright, electric blue color, surrounded by a halo of light, as if radiating an otherworldly energy.|
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via LeonardoAI
 
 ## 📚 Materiais
 
@@ -73,15 +70,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspHanderson Dias<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/handersongodias">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+   
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -89,4 +82,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Handerson Dias](https://github.com/handersongodias)
